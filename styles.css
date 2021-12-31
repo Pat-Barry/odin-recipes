@@ -1,0 +1,63 @@
+.header {
+    font-family: 'Brush Script MT', 'Marker Felt', sans-serif;
+    font-size: 60px;
+    color: rgb(211, 75, 211);
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+    background-color: aqua;
+}
+
+h2 {
+    font-family: 'Brush Script MT', 'Marker Felt', sans-serif;
+    font-size: 40px;
+    color: rgb(211, 75, 211);
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: 'Marker Felt', sans-serif;
+    font-size: 30px;
+    color: rgb(211, 75, 211);
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Brush Script MT', 'Marker Felt', sans-serif;
+    font-size: 40px;
+    color: rgb(211, 75, 211);
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: center;
+    font-family: 'Marker Felt', sans-serif;
+    font-size: 25px;
+    color: rgb(211, 75, 211);
+    background-color: aliceblue
+}
+
+ol {
+    text-align: center;
+    font-family: 'Marker Felt', sans-serif;
+    font-size: 25px;
+    color: rgb(211, 75, 211);
+    background-color: aliceblue
+}
+
+.bullet {
+    text-align: center;
+}
